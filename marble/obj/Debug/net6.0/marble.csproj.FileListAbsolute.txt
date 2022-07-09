@@ -1,0 +1,15 @@
+/Users/daniel.fernandez/Projects/marble/marble/bin/Debug/net6.0/marble
+/Users/daniel.fernandez/Projects/marble/marble/bin/Debug/net6.0/marble.deps.json
+/Users/daniel.fernandez/Projects/marble/marble/bin/Debug/net6.0/marble.runtimeconfig.json
+/Users/daniel.fernandez/Projects/marble/marble/bin/Debug/net6.0/marble.dll
+/Users/daniel.fernandez/Projects/marble/marble/bin/Debug/net6.0/marble.pdb
+/Users/daniel.fernandez/Projects/marble/marble/obj/Debug/net6.0/marble.csproj.AssemblyReference.cache
+/Users/daniel.fernandez/Projects/marble/marble/obj/Debug/net6.0/marble.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.fernandez/Projects/marble/marble/obj/Debug/net6.0/marble.AssemblyInfoInputs.cache
+/Users/daniel.fernandez/Projects/marble/marble/obj/Debug/net6.0/marble.AssemblyInfo.cs
+/Users/daniel.fernandez/Projects/marble/marble/obj/Debug/net6.0/marble.csproj.CoreCompileInputs.cache
+/Users/daniel.fernandez/Projects/marble/marble/obj/Debug/net6.0/marble.dll
+/Users/daniel.fernandez/Projects/marble/marble/obj/Debug/net6.0/refint/marble.dll
+/Users/daniel.fernandez/Projects/marble/marble/obj/Debug/net6.0/marble.pdb
+/Users/daniel.fernandez/Projects/marble/marble/obj/Debug/net6.0/marble.genruntimeconfig.cache
+/Users/daniel.fernandez/Projects/marble/marble/obj/Debug/net6.0/ref/marble.dll
